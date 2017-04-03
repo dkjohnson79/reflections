@@ -1,2 +1,5 @@
 1) What happens when you initialize a repository? Why do you need to do it?
 We need to tell git that the project is a repository that we would like to track. 
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+it is the intermediate step between the WD and the repo, in order to setup a commit.
