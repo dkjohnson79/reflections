@@ -1,0 +1,2 @@
+1) What happens when you initialize a repository? Why do you need to do it?
+We need to tell git that the project is a repository that we would like to track. 
