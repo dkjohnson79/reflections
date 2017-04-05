@@ -12,3 +12,5 @@ When large changes to the game are made.
 
 5)How do the diagrams help you visualize the branch structure?
 By enabling you to visualise the branches and where each commit fits into the branch.
+
+6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
